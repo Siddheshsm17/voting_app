@@ -1,0 +1,20 @@
+{
+    "name":" Mohite Anna",
+    "party":"BJP",
+    "age": 22,
+    "votes":[
+
+        {
+          "user" : "3321",
+          "votedAt" :"2024-02-2"
+        },
+
+        {
+          "user" : "3327",
+          "votedAt" :"2024-02-19"
+        }
+    ],
+    
+    "voteCount":2
+
+}

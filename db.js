@@ -28,6 +28,6 @@ db.on('error', (err)=>{
 })
 
 db.on('disconnected',()=>{
-    console.log('mongodb is disconnected')
+    console.log('heyyy mongodb is disconnected')
 });
 
